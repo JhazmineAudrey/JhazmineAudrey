@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hello, I'm Jhaz!
+
+I'm a semi-beginner programmer who is currently learning **fullstack development** for websites! Although I'm currently not looking to put myself in a team or collaborate with anyone, I would definitely appreciate any feedback/lessons I'm given.
+
+### ☎️ Reach me through...
+- **Slack**
+- **Gmail**
+
+### ⚙️ Programming Languages I'm Familiar With (and am learning)
+- HTML
+- CSS
+- Javascript
+- Python
 
 <!--
 **jhazmineaudrey/JhazmineAudrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
